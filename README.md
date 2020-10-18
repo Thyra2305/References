@@ -4,7 +4,7 @@
 
 <h1><strong>References</strong></h1>
 
-<p>
+<p1>
 
 Bergin, Osborn, and Best, R.I (ed. and tr.), “Torchmarc Étaine”, <i>Ériu 12</i> (Dublin 1938).
 
@@ -43,7 +43,7 @@ Sumner, Natasha, ‘Efnisien’s Trickster Wiles: Meanings, Motives and Mental I
 
 Van der Linden, Renske, ‘The Laws of Hywel Dda in the Four Branches of The Mabinogi’, Bachelor thesis (Utrecht 2007). 
 
-</p>
+</p1>
 
 
 <p2>
