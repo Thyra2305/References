@@ -6,27 +6,29 @@
 
 <p>
 
-Bergin, Osborn, and Best, R.I (ed. and tr.), “Torchmarc Étaine”, Ériu 12 (Dublin 1938).
+Bergin, Osborn, and Best, R.I (ed. and tr.), “Torchmarc Étaine”, <i>Ériu 12</i> (Dublin 1938).
 
-Chapman-Stacey, Robin, The Road to Judgment (Pennsylvania 1994).
+Chapman-Stacey, Robin, <i>The Road to Judgment</i> (Pennsylvania 1994).
 
-Charles-Edwards, Thomas, ‘Tochmarc Étaine: a literal interpretation’ Ogma (Dublin 2002). 
+Charles-Edwards, Thomas, ‘Tochmarc Étaine: a literal interpretation’, <i>Ogma</i> (Dublin 2002). 
 
-Davies, Sioned, The Mabinogion (Oxford 2008). 
+Davies, Sioned, <i>The Mabinogion</i> (Oxford 2008). 
 
-Ellis, T.P., ‘Legal References, Terms and Conceptions in the “Mabinogion”’, Y Cymmrodor (London 1929) 86-148.  
+Ellis, T.P., ‘Legal References, Terms and Conceptions in the “Mabinogion”’, <i>Y Cymmrodor</i> (London 1929) 86-148.  
 
-Eska, Charlene M., ‘Marriage by Purchase in Early Irish Law’, Tome: Studies in Medieval Celtic History and Law in Honour of Thomas Charles-Edwards, Studies in Celtic History 31 (Woodbridge 2011) 183-191. 
+Eska, Charlene M., ‘Marriage by Purchase in Early Irish Law’, 
+Tome: Studies in Medieval Celtic History and Law in Honour of Thomas Charles-Edwards, <i>Studies in Celtic History 31</i> (Woodbridge 2011) 183-191. 
 
-Jenkins, Dafydd, The Laws of Hywel Dda (Llandysul 1986).
+Jenkins, Dafydd, <i>The Laws of Hywel Dda</i> (Llandysul 1986).
 
-Kelly, Fergus, A Guide to Early Irish Law (Dublin 1995).
+Kelly, Fergus, <i>A Guide to Early Irish Law</i> (Dublin 1995).
 
-McLeod, Neil, Early Irish Contract Law (Sydney 1955). 
+McLeod, Neil, <i>Early Irish Contract Law</i> (Sydney 1955). 
 
-Meid, Wolfgang, The Romance of Froech and Findabair or the Driving of Froech’s Cattle: Táin Bó Froích (Innsbruck 2015). 
+Meid, Wolfgang, <i>The Romance of Froech and Findabair or the Driving of Froech’s Cattle: Táin Bó Froích</i> (Innsbruck 2015). 
 
-Sumner, Natasha, ‘Efnisien’s Trickster Wiles: Meanings, Motives and Mental Illness in the Second Branch of the Mabinogi’ Studia Celtica Posnaniensia Vol 1 (Harvard 2016).
+Sumner, Natasha, ‘Efnisien’s Trickster Wiles: Meanings, Motives and Mental Illness in the Second Branch of the Mabinogi', <i>Studia Celtica Posnaniensia Vol 1</i> 
+(Harvard 2016).
 
 Van der Linden, Renske, ‘The Laws of Hywel Dda in the Four Branches of The Mabinogi’, Bachelor thesis (Utrecht 2007). 
 
