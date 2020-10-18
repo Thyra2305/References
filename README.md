@@ -32,13 +32,18 @@ Sumner, Natasha, ‘Efnisien’s Trickster Wiles: Meanings, Motives and Mental I
 
 Van der Linden, Renske, ‘The Laws of Hywel Dda in the Four Branches of The Mabinogi’, Bachelor thesis (Utrecht 2007). 
 
+</p>
+
+<p2>
 
 Links to sources
 
 Link to the front cover picture: https://ansionnachfionn.com/seanchas-mythology/na-peisteanna/ 
 Link from Van Hamel’s CODECS website: https://www.vanhamel.nl/codecs/T%C3%A1in_b%C3%B3_Fra%C3%ADch 
 Link from Van Hamel’s CODECS website (Branwen uerch Lyr): https://www.vanhamel.nl/codecs/Branwen_uerch_Lyr_(second_branch_of_the_Mabinogi) 
- </p>
+
+</p2>
+
 
 </body>
 
