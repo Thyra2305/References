@@ -2,6 +2,8 @@
 
 <body>
 
+<h1><strong>References</strong></h1>
+
 <p>
 
 Bergin, Osborn, and Best, R.I (ed. and tr.), “Torchmarc Étaine”, Ériu 12 (Dublin 1938).
